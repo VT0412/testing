@@ -1,3 +1,3 @@
 # test
 
-Det här är test, hälsningar VT
+Det här är test
